@@ -1,0 +1,10 @@
+1 Parking_Centre 2.0 100 Tunis Tunis Avenue_Habib_Bourguiba
+2 Parking_Marsa 3.0 150 Tunis La_Marsa Rue_Taieb_Mhiri
+3 Parking_Lac 2.5 200 Tunis Les_Berges_Du_Lac Rue_Du_Lac
+4 Parking_Sousse 1.5 120 Sousse Sousse_Centre Rue_France
+5 Parking_Monastir 1.0 80 Monastir Monastir Rue_Independance
+6 Parking_Sfax 1.8 170 Sfax Sfax_Centre Avenue_Hedi_Chaker
+7 Parking_Bizerte 2.2 90 Bizerte Bizerte Rue_De_La_Plage
+8 Parking_Ariana 2.0 110 Ariana Ariana Rue_Mohamed_V
+9 Parking_Hammamet 3.0 140 Nabeul Hammamet Avenue_Bourguiba
+10 Parking_Gabes 1.2 100 Gabes Gabes Rue_Des_Dattes
